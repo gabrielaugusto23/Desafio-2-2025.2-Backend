@@ -1,4 +1,4 @@
-# Desafio 1 - Base de dados do DETRAN
+# Desafio 2 - Base de dados do DETRAN
 
 Este desafio tem como objetivo exercitar os conceitos de modelagem de dados e de banco de dados relacionais.
 
